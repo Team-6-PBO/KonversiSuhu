@@ -1,1 +1,20 @@
-# Konversi-Suhu
+
+# Konversi Suhu
+
+Temperature conversion app ( Celsius, Fahrenheit, Reamur, K ) modified from https://rivaldi48.blogspot.com/2020/04/Tutorial-Membuat-Aplikasi-Konversi-Suhu-dengan-Android-Studio.html
+
+
+
+
+## Member Of Team 6
+
+ - As Syifa Nurul Fitri Ubaidillah
+ - Dimas Pratomo Mukti
+ - Fadly Putra Lugina
+ - Muhammad Fadhlan Aqila
+ - Nazwa Septya Salsabilla
+
+## Demo App
+
+![](https://github.com/KonversiSuhu/app.gif)
+
