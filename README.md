@@ -6,7 +6,7 @@ Temperature conversion app ( Celsius, Fahrenheit, Reamur, Kelvin ) modified from
 
 
 
-## Member Of Team 6
+## Member Of Team 6 - 2IA01
 
  - As Syifa Nurul Fitri Ubaidillah
  - Dimas Pratomo Mukti
