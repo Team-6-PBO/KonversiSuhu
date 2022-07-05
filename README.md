@@ -1,7 +1,7 @@
 
 # Konversi Suhu
 
-Temperature conversion app ( Celsius, Fahrenheit, Reamur, K ) modified from https://rivaldi48.blogspot.com/2020/04/Tutorial-Membuat-Aplikasi-Konversi-Suhu-dengan-Android-Studio.html
+Temperature conversion app ( Celsius, Fahrenheit, Reamur, Kelvin ) modified from https://rivaldi48.blogspot.com/2020/04/Tutorial-Membuat-Aplikasi-Konversi-Suhu-dengan-Android-Studio.html
 
 
 
