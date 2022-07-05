@@ -16,5 +16,5 @@ Temperature conversion app ( Celsius, Fahrenheit, Reamur, K ) modified from http
 
 ## Demo App
 
-![](https://github.com/KonversiSuhu/app.gif)
+![](https://github.com/Team-6-PBO/KonversiSuhu/blob/main/app.gif)
 
