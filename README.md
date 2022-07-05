@@ -48,6 +48,6 @@ Select the directory of KonversiSuhu
 
 
 ## Demo App
+![app](https://user-images.githubusercontent.com/60656929/177327653-a3e88e86-c64b-4f4c-bf73-6212f87081b3.gif)
 
-![](https://github.com/Team-6-PBO/KonversiSuhu/blob/main/app.gif)
 
