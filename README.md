@@ -25,7 +25,7 @@ Temperature conversion app ( Celsius, Fahrenheit, Reamur, K ) modified from http
 ## Installation
   Open command line or terminal
 
-```http
+```
 git clone https://https://github.com/Team-6-PBO/KonversiSuhu.git 
 ```
   Open Android Studio 
