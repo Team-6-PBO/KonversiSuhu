@@ -41,10 +41,10 @@ Select the directory of KonversiSuhu
 ## App View
 
 ### Splash Screen
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![image](https://user-images.githubusercontent.com/60656929/177327284-e3f76830-b4d4-4851-bd1c-37594400d541.png)
 
 ### Main View
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![image](https://user-images.githubusercontent.com/60656929/177327378-83795515-55fd-4000-b99a-a021ef6850d8.png)
 
 
 ## Demo App
